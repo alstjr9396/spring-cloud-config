@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: my_token_default
+  secret: '{cipher}AQAgWOASsnGyPbEoNITaBCOrBKjz/kGnvHrXhRyd3Tl+Phg/Kgyz26Pl2GgdVQkpXbWyqqTZwlMvIop+mh/icTRYKE7mLLfqHy3icuonr1y7VRGPSDYTZ4yj/3iUT0Am85MDV1sPL+4sbrCAffAysrurMO+PBfb0UQMkszylrhyOn+YndoSahgGTE/cNryFxzZP7JMQO+PrpXmgZoLfCORjI9bTVY8wbHvUvQcpZ4ZNN8AoOgeXgziNdRIUJL0P5acEzrYEZsBozdg2fzMno8H1fq6POhdoTX0/UWYmlG175Lx419WgDVqitYjW1LpEGyoL2Z/3hXQ9sbwE8AalojSJ+6pnmNc8RuYeQVnL/1F0EB4NdpHNlne9lHoy40G9gGonamYyBUnRF03RFVHp5i5cq'
 
 gateway:
-  ip: 127.0.0.1
+  ip: '{cipher}AQCQBvqdBe7l1MQcyUHdWwLdDSszSupde4QvUzD6e6/6g/UpoAuVzhBS7dBAjXONy8HaLurgwu+b6RfdgWOTD+nuv12e2xwi22gEsf2pGkw+srYhQHLbZzYNbGuX//lUTtUbn3SIg9Gbs3JAL+a1H6r4CVY2K0yp9Ecy/Sud1b+5usMi3hlimUxCjWofHMeUVKeOkXbdLF4mwkXjkXhITTqpGYntsTsM8eHm0rtihivH2GUjefH0yNlm3iRyelmPZIf/Da+Lt3vshAahXE+2az+AZoSPXDbpuzLcp+kdojuEuZ6/nNm6DD8Q9+uvz+QKwMreYH6G2F/+p6urpqsZhIUQ+B5b3cRbjwOgKYEYR7o4R+zGRXxNijienW5KxhKOox0='
